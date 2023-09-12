@@ -8,6 +8,8 @@ public class RechargeDevelopmentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RechargeDevelopmentApplication.class, args);
+		
+		System.out.println("Welcome to Recharge_Development");
 	}
 
 }
