@@ -10,6 +10,7 @@ public class RechargeDevelopmentApplication {
 		SpringApplication.run(RechargeDevelopmentApplication.class, args);
 		
 		System.out.println("Welcome to Recharge_Development");
+		System.out.println("POC Project Two");
 	}
 
 }
